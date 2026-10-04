@@ -7,7 +7,7 @@
 #define STR_LEN 100
 
 //Global Arrays
-char supplierID[MAX_SUPPLIER][10];
+char supplierID[MAX_SUPPLIER][15];
 char supplierName[MAX_SUPPLIER][STR_LEN];
 char supplierEmail[MAX_SUPPLIER][STR_LEN];
 char supplierTelephone[MAX_SUPPLIER][20];
